@@ -1,4 +1,4 @@
-# Plotly Illustration on COVID-19 Data
+# Plotly Illustration of COVID-19 Data
 
 We had seen enough this year, through COVID - 19 times.
 In the mid of January, it was just in Wuhan and the world was not prepared to deal with it.
@@ -8,3 +8,7 @@ In this project, we would see an illustration of COVID-19 impact and how it chan
 
 Python <a href=https://plotly.com/python/>plotly.py</a> is a graphing library makes interactive, publication-quality graphs.
 Plotly is an open-source, interactive data visualization library for Python. Plotly graphs can be viewed in Jupyter notebooks, standalone HTML files, or hosted online using <a href="https://chart-studio.plotly.com/">Chart Studio Cloud</a>
+
+## Data Source
+For the purpose of illustration, we can download the data from <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide">the website of European Centre for Disease Prevention and Control</a>. It appears to me that they publish this data on a daily basis
+
