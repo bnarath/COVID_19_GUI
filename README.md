@@ -12,6 +12,7 @@ Plotly is an open-source, interactive data visualization library for Python. Plo
 ## Data Source
 For the purpose of illustration, we can download the data from <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide">the website of European Centre for Disease Prevention and Control</a>. It appears to me that they publish this data on a daily basis
 
+<a href="COVID-19-geographic-disbtribution-worldwide-2020-05-29.xlsx">Downloaded Data File in excel format</a>
 ## Data Retrieval
 
 
