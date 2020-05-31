@@ -132,6 +132,6 @@ Here, 4 graphs are generated
 - Country Vs Date for Cumulative deaths
 
 ## Featured
-Graph illustrating Daily Cases worldwide is hosted on <a href=#> github pages</a>
+Graph illustrating Daily Cases worldwide is hosted on <a href="https://bnarath.github.io/COVID_19_GUI/"> github pages</a>
 
 It is shocking to see the epicenter being shifted over time
